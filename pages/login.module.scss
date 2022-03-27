@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+
+  .enter {
+    background-color: #73aace;
+  }
+}
+
+
+/*For below 768px screen width*/
+@media screen and (max-width: 768px) {
+
+}
+
+/*For below 576 screen width*/
+@media screen and (max-width: 576px) {
+}
